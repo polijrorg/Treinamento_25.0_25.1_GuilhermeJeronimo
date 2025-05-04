@@ -1,0 +1,27 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="64" height="64" fill="#DCDCDC"/>
+<g clip-path="url(#clip0_17_3)">
+<rect width="1440" height="1027" transform="translate(-128 -803)" fill="white"/>
+<mask id="path-1-inside-1_17_3" fill="white">
+<path d="M-128 -800H192V224H-128V-800Z"/>
+</mask>
+<path d="M-128 -800H192V224H-128V-800Z" fill="#1A1D1E"/>
+<path d="M191 -800V224H193V-800H191Z" fill="#4C5155" mask="url(#path-1-inside-1_17_3)"/>
+<g clip-path="url(#clip1_17_3)">
+<rect width="64" height="64" rx="32" fill="white"/>
+<rect width="64" height="64" fill="url(#pattern0_17_3)"/>
+</g>
+</g>
+<defs>
+<pattern id="pattern0_17_3" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_17_3" transform="translate(0 0.004) scale(0.008)"/>
+</pattern>
+<clipPath id="clip0_17_3">
+<rect width="1440" height="1027" fill="white" transform="translate(-128 -803)"/>
+</clipPath>
+<clipPath id="clip1_17_3">
+<rect width="64" height="64" rx="32" fill="white"/>
+</clipPath>
+<image id="image0_17_3" width="125" height="124" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH0AAAB8CAIAAADLvijXAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAgQSURBVHhe7Z1fSFN9GMffuZlkKqjvoj+wP1GLJiYVQvPKaBJYy/Cqm8rroigvIgyqLXhfwwuhm7IIohCnttBCCMH0QjKKpkU1SChSyjSyWvqqc673+7Zfsj8K5/y2199x5/lcjOeczp/f+fic5zy/8qw/fhIiIO9iIO9iIO9iIO9iIO9iIO9iIO9iIO9iIO9iIO9iIO9iIO9iIO9iIO9i+L+8h0Kh2dnZqampf5YtGHwwGMSFsEtKKsn0jiFiuMPDw319fS0tLZcvX3Y6neclcOHCBRZFx0mE4xQul6uhoeH+/fsDAwNjY2OBQIBdZzJImvcfP348f/68sbHxxIkTu3bt2rJly/r16/Pz8/OWLRi80WgsKipyOBz4MXR0dLx9+3ZmZoZdcGIkwTvqydDQkMfjqaqq2rRp06pVqzQazR8phFarzc3N3blzZ01NTXd39/j4+NzcHLt4XhLyjsKCIvjmzZtLly4hwTMyMthIUxEkU05Ojt1ud7vdnz59QrYxC1wk5B3SfT7f6dOns7OzUyzHF0On05nN5ps3b378+DER9fzecVZkOqSndprHgwxbs2bNrVu3RkdHubsdfu+o6SgvyHQ2HDUB9Zs3b25vb/f7/UyHTDi9o3vBgxQ1XSXlJZ709PSKigp0zOjxmRQ58HjHzYWWEd2L2ipMDGhy6urqRkZGmBc58HjH5Ah9OlpGdn61kpaWVl5e3tvby9FW8njHjPT48ePo09n5VYzBYLh27drk5CRTIxke7yhqmJGqtrJHkpmZefToUSQiUyMZ2d5R3FtaWqxWKzuzukHylZWVeb1eZkcysr0HAoH6+vp169axM6ue4uLizs5OZkcysr1jjup0OvPz89lpVU9BQQFaamZHMrK9o5k5f/58Xl4eO63qwSSmtbWV2ZHM0nnX6XTYq7CwEL3X/v37MekIf0YGIH4lgnA8vwbMx/Er8Tm/Mj4AMSvxabfbLRZLVlYWR7OgaO9oOrdv315TU/PgwYP+/n5MuyJ58eIFi37FMYsskknMQWIWWfSbp0+f3r17FzNBs9ms1WrZoKWhXO/I9B07dqDPxdSOb1a9BKBf8Pl81dXVRqNRVtYr1zs2RqbzzaeXEkw7cS9WVlbK+vsP5XpHTUd5UWymR+L3+9El6/V6NnQJKNf73r17kUdsf2WD5EBTaDKZ2NAloFzvaBjw7GL7KxuUmra2tg0bNrChS0C53tGrLSPv7e3t5H2pIe9iIO9iIO9iIO9iIO9iIO9iIO9iIO//KZienp6YmPjBBXYMBAJyf49O7d5hzev1Xr169e/f/PUL6XFtbW1TU9Pg4KCs9wVU7R0X/+zZsyNHjhgMhj950ev1Vqv14sWL79+/Z8eVgKq9o7w0NDRAOtufF41GY7PZHj58yI4rAVV7R5FBoUDOsv0TwGw2Nzc3s+NKQNXe8VREmU6Kd5PJ5Ha72XElQN7JezTkPQbyvgDknbxHQd6jIO/kPRryHgN5XwDyTt6jIO9RkHfyHg15j4G8LwB5J+9RkPcoyDt5j4a8x5A63icmJmpra2W97LIYGzduvHPnDjuuBFTtPRAIIEmtVmuCXz2h1Wr37Nnz+PFjdlwJqNp7KBQaHBx0uVw2m81sNqNWcIBMh/TGxsbPnz+z40pA1d4BUn5oaKirq6v5N01NTbgJ4mMEWIyPUV6Q6ZAOleygElC7d1GQdzGQdzGQdzGQdzGQdzGQdzGQdzGQdzGQdzGklHeHwzEwMMD2Vzbw3tbWZjab2dAloFzvdrv9yZMnbH9lMzs763a7Zb3io1zvFovF4/HIeq9OFF++fHE6nbm5uWzoElCu96ysrKqqKp/Ph7uYHUWRINm7urpKS0t1Oh0bugSU612j0eBJVV1d3d/f7/f7g8EgfgCKAsaR6ZB+8ODB1atXs3FLQ7negVarRdGsrKysr69HzUHPEA8eaCz6ReTigjGCyDgcgMViELMYBitR01FekOl6vV7uP3Ip2jvA9WRkZODCTCYT0l85oHtBTqCmyyov8yjde6qyRN6npqZcLhd9D/k8hYWFqFTMjmRke8cj6MqVK4m/xJ4ylJSU9PT0MDuSke09FArdu3evqKiInVbdoF84cODAq1evmB3JyPYOMOnft2+f3O/rTklycnLOnDkzNjbG1EiGxztOc+7cOVmTulQFD1X0oNPT00yNZHi8Y8bf0dFhs9kS/H2u5c6KFSsOHz6Mu1/utzoBHu/g3bt3Z8+exV3GhqBKjEbj7du3v379yqTIgdP7zMxMd3f37t27+eYaKcDKlStPnjz5+vVrjmQHnN7B+Pg4ShsmeyqsNmlpaaWlpY8ePeKo7GH4vc/NzY2MjNy4cWPt2rWqUg/p27Ztw+3O/Z+vAn7vAHOoDx8+oMZZLJb09HQ2rpQG5QWZDunfvn1D5jER8knIO4D60dFRTJQrKirQWSIX2ABTDnQveJCeOnUK5QWZnoh0kKh3gAfL9+/f+/r66urqysvLDQZDZmZmylQeTA+zs7PRpx86dAh3Nh6k3DU9kiR4DxMMBlHue3t7r1+/fuzYsbKysuLi4oKCAow4jNVqjQnCRC7G/FGYmA0W2yZy/WLbsChug/nFyPVbt24tKSlxOByYkTY3N6NPR8vI173EkzTvYXD3TU5ODg8Pe73ezs5Oj8fTumxB8ezp6Xn58iXm58jxZBkPk2TvhETIuxjIuxjIuxjIuxjIuxjIuxjIuxjIuxjIuxjIuxjIuxjIuxjIuxjIuxjIuwh+/vwXhoUwoVCDZ50AAAAASUVORK5CYII="/>
+</defs>
+</svg>

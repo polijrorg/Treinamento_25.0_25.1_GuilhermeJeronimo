@@ -27,6 +27,10 @@ export const GlobalStyles = createGlobalStyle`
         font-family: "Poppins ExtraLight";
         src: url("/fonts/Poppins/Poppins-ExtraLight.ttf") format('truetype');
     }
+    @font-face{
+        font-family: "Nunito";
+        src: url("/fonts/Nunito/Nunito-Regular.ttf") format('truetype');
+    }
 
     *{
         margin: 0;
